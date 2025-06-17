@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Class 10 CBSE Maths MCQs - Chapters 1, 2, 6.1 & 6.2</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: #f9f9f9;
+    color: #222;
+  }
+  h1, h2 {
+    color: #004080;
+  }
+  nav {
+    margin-bottom: 20px;
+  }
+  nav button {
+    margin-right: 10px;
+    padding: 10px 15px;
+    border: none;
+    background-color: #004080;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: bold;
+  }
+  nav button:hover {
+    background-color: #00264d;
+  }
+  .chapter {
+    display: none;
+  }
+  .chapter.active {
+    display: block;
+  }
+  ol {
+    padding-left: 20px;
+  }
+  li {
+    margin-bottom: 15px;
+  }
+  .options {
+    margin-left: 15px;
+  }
+</style>
+</head>
+<body>
+
+<h1>Class 10 CBSE Mathematics MCQs</h1>
+
+<nav>
+  <button onclick="showChapter('chapter1')">Chapter 1: Real Numbers</button>
+  <button onclick="showChapter('chapter2')">Chapter 2: Polynomials</button>
+  <button onclick="showChapter('chapter6_1')">Chapter 6.1: Lines and Angles</button>
+  <button onclick="showChapter('chapter6_2')">Chapter 6.2: Triangles</button>
+</nav>
+
+<div id="chapter1" class="chapter active">
+  <h2>Chapter 1: Real Numbers</h2>
+  <ol>
+    <li>The HCF of 36 and 48 is:  
+      <div class="options">a) 6 &nbsp;&nbsp; b) 12 &nbsp;&nbsp; c) 18 &nbsp;&nbsp; d) 24</div>
+    </li>
+    <li>The LCM of 12 and 15 is:  
+      <div class="options">a) 30 &nbsp;&nbsp; b) 45 &nbsp;&nbsp; c) 60 &nbsp;&nbsp; d) 75</div>
+    </li>
+    <li>The decimal expansion of 1/8 is:  
+      <div class="options">a) Terminating &nbsp;&nbsp; b) Non-terminating repeating &nbsp;&nbsp; c) Non-terminating non-repeating &nbsp;&nbsp; d) None of these</div>
+    </li>
+    <li>If the prime factorization of 360 is 2^3 \times 3^2 \times 5, then the number of factors of 360 is:  
+      <div class="options">a) 12 &nbsp;&nbsp; b) 18 &nbsp;&nbsp; c) 24 &nbsp;&nbsp; d) 30</div>
+    </li>
+    <li>The square root of 0.0001 is:  
+      <div class="options">a) 0.01 &nbsp;&nbsp; b) 0.001 &nbsp;&nbsp; c) 0.1 &nbsp;&nbsp; d) 0.0001</div>
+    </li>
+    <li>Which of the following is an irrational number?  
+      <div class="options">a) \sqrt{25} &nbsp;&nbsp; b) \sqrt{2} &nbsp;&nbsp; c) 0.75 &nbsp;&nbsp; d) 0.5</div>
+    </li>
+    <li>The decimal representation of \frac{7}{11} is:  
+      <div class="options">a) Terminating &nbsp;&nbsp; b) Non-terminating repeating &nbsp;&nbsp; c) Non-terminating non-repeating &nbsp;&nbsp; d) None of these</div>
+    </li>
+    <li>The HCF of two numbers is 6 and their LCM is 72. If one number is 18, the other number is:  
+      <div class="options">a) 24 &nbsp;&nbsp; b) 36 &nbsp;&nbsp; c) 12 &nbsp;&nbsp; d) 48</div>
+    </li>
+    <li>Which of the following is a perfect square?  
+      <div class="options">a) 45 &nbsp;&nbsp; b) 64 &nbsp;&nbsp; c) 72 &nbsp;&nbsp; d) 81</div>
+    </li>
+    <li>The decimal expansion of \frac{5}{16} is:  
+      <div class="options">a) 0.3125 &nbsp;&nbsp; b) 0.315 &nbsp;&nbsp; c) 0.325 &nbsp;&nbsp; d) 0.35</div>
+    </li>
+    <li>The product of the HCF and LCM of two numbers is equal to:  
+      <div class="options">a) Sum of the numbers &nbsp;&nbsp; b) Difference of the numbers &nbsp;&nbsp; c) Product of the numbers &nbsp;&nbsp; d) None of these</div>
+    </li>
+    <li>The smallest number which leaves a remainder of 1 when divided by 2, 3, and 4 is:  
+      <div class="options">a) 7 &nbsp;&nbsp; b) 13 &nbsp;&nbsp; c) 25 &nbsp;&nbsp; d) 37</div>
+    </li>
+    <li>The LCM of two numbers is 180 and their HCF is 6. If one number is 30, the other number is:  
+      <div class="options">a) 36 &nbsp;&nbsp; b) 54 &nbsp;&nbsp; c) 60 &nbsp;&nbsp; d) 90</div>
+    </li>
+    <li>The number of prime numbers between 1 and 20 is:  
+      <div class="options">a) 6 &nbsp;&nbsp; b) 7 &nbsp;&nbsp; c) 8 &nbsp;&nbsp; d) 9</div>
+    </li>
+    <li>Which of the following is a rational number?  
+      <div class="options">a) \sqrt{3} &nbsp;&nbsp; b) \frac{5}{7} &nbsp;&nbsp; c) \pi &nbsp;&nbsp; d) e</div>
+    </li>
+    <li>The HCF of 56 and 98 is:  
+      <div class="options">a) 7 &nbsp;&nbsp; b) 14 &nbsp;&nbsp; c) 28 &nbsp;&nbsp; d) 42</div>
+    </li>
+    <li>The LCM of 8, 12, and 20 is:  
+      <div class="options">a) 60 &nbsp;&nbsp; b) 120 &nbsp;&nbsp; c) 240 &nbsp;&nbsp; d) 480</div>
+    </li>
+    <li>Which of the following is not a factor of 36?  
+      <div class="options">a) 3 &nbsp;&nbsp; b) 6 &nbsp;&nbsp; c) 9 &nbsp;&nbsp; d) 12</div>
+    </li>
+    <li>The decimal expansion of \frac{1}{3} is:  
+      <div class="options">a) 0.3 &nbsp;&nbsp; b) 0.33 &nbsp;&nbsp; c) 0.333... (repeating) &nbsp;&nbsp; d) 0.3333 (terminating)</div>
+    </li>
+    <li>The HCF of 45, 60 and 75 is:  
+      <div class="options">a) 5 &nbsp;&nbsp; b) 10 &nbsp;&nbsp; c) 15 &nbsp;&nbsp; d) 20</div>
+    </li>
+    <li>The LCM of 9 and 12 is:  
+      <div class="options">a) 18 &nbsp;&nbsp; b) 24 &nbsp;&nbsp; c) 36 &nbsp;&nbsp; d) 48</div>
+    </li>
+    <li>The prime factorization of 84 is:  
+      <div class="options">a) 2^2 \times 3 \times 7 &nbsp;&nbsp; b) 2 \times 3 \times 7 &nbsp;&nbsp; c) 2^2 \times 7 &nbsp;&nbsp; d) 2 \times 3^2 \times 7</div>
+    </li>
+    <li>Which of the following is a perfect cube?  
+      <div class="options">a) 27 &nbsp;&nbsp; b) 64 &nbsp;&nbsp; c) 125 &nbsp;&nbsp; d) All of these</div>
+    </li>
+    <li>The HCF of 81 and 54 is:  
+      <div class="options">a) 9 &nbsp;&nbsp; b) 18 &nbsp;&nbsp; c) 27 &nbsp;&nbsp; d) 36</div>
+    </li>
+    <li>The LCM of 15 and 25 is:  
+      <div class="options">a) 50 &nbsp;&nbsp; b) 60 &nbsp;&nbsp; c) 75 &nbsp;&nbsp; d) 100</div>
+    </li>
+  </ol>
+</div>
+
+<div id="chapter2" class="chapter">
+  <h2>Chapter 2: Polynomials</h2>
+  <ol start="26">
+    <li>The degree of the polynomial 3x^4 - 5x^2 + 7 is:  
+      <div class="options">a) 2 &nbsp;&nbsp; b) 3 &nbsp;&nbsp; c) 4 &nbsp;&nbsp; d) 5</div>
+    </li>
+    <li>The coefficient of x^2 in 2x^3 - 4x^2 + 3x - 7 is:  
+      <div class="options">a) 2 &nbsp;&nbsp; b) -4 &nbsp;&nbsp; c) 3 &nbsp;&nbsp; d) -7</div>
+    </li>
+    <li>The polynomial x^2 + 5x + 6 can be factored as:  
+      <div class="options">a) (x + 2)(x + 3) &nbsp;&nbsp; b) (x - 2)(x - 3) &nbsp;&nbsp; c) (x + 1)(x + 6) &nbsp;&nbsp; d) (x - 1)(x - 6)</div>
+    </li>
+    <!-- ...rest of chapter 2 questions... -->
+  </ol>
+</div>
+
+<div id="chapter6_1" class="chapter">
+  <h2>Chapter 6.1: Lines and Angles</h2>
+  <ol start="51">
+    <li>Two lines intersecting at a point form:  
+      <div class="options">a) 1 pair of adjacent angles &nbsp;&nbsp; b) 2 pairs of adjacent angles &nbsp;&nbsp; c) 2 pairs of vertical angles &nbsp;&nbsp; d) 4 pairs of vertical angles</div>
+    </li>
+    <!-- ...rest of chapter 6.1 questions... -->
+  </ol>
+</div>
+
+<div id="chapter6_2" class="chapter">
+  <h2>Chapter 6.2: Triangles</h2>
+  <ol start="71">
+    <li>The sum of the angles of a triangle is:  
+      <div class="options">a) 90° &nbsp;&nbsp; b) 180° &nbsp;&nbsp; c) 270° &nbsp;&nbsp; d) 360°</div>
+    </li>
+    <!-- ...rest of chapter 6.2 questions... -->
+  </ol>
+</div>
+
+<script>
+  function showChapter(chapterId) {
+    const chapters = document.querySelectorAll('.chapter');
+    chapters.forEach(ch => ch.classList.remove('active'));
+    document.getElementById(chapterId).classList.add('active');
+  }
+</script>
+
+</body>
+</html>
